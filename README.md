@@ -7,7 +7,11 @@ You can click the Preview link to take a look at your changes.
 --->
 
 <div align="center"> <img height="137px" src="https://github-readme-stats.vercel.app/api?username=doing1024&hide_title=true&hide_border=true&show_icons=trueline_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" /> </div>
+
 # 我的项目
+## 置顶
++ [DoingEmacsEmacs配置](https://github.com/doing1024/doingemacs)
++ [DoingTodo代办，点击体验](https://todo.doing1024.us.kg)
 ## 游戏类
 + [迷宫](https://github.com/doing1024/maze)
 + [跑酷](https://github.com/doing1024/running)
